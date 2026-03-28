@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ark 👋</h1>
+<h1 align="center">Hey, I'm Ark 🤟</h1>
 
 <p align="center">
   <em>B.Tech @ IIIT Nagpur &nbsp;·&nbsp; Year 3 &nbsp;·&nbsp; Open to Opportunities</em>
@@ -22,7 +22,7 @@ Currently grinding through **DSA** while staying sharp on the **AI/ML frontier**
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 Tech Stack
 
 **Languages**
 
