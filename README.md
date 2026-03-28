@@ -1,6 +1,10 @@
-# 💫 About Me:
-I am a third-year B.Tech undergraduate at IIIT Nagpur, aspiring to build a career as a Software Development Engineer or Data Scientist. <br>I have a strong interest in Machine Learning, Deep Learning, and Artificial Intelligence, and I enjoy applying these concepts to real-world problems.<br>I am an active open-source contributor, which has helped me gain experience working with large codebases and collaborating with developers worldwide. Currently, I am strengthening my problem-solving skills by learning Data Structures and Algorithms.<br>I am actively seeking internship and placement opportunities where I can contribute, learn, and grow as a developer.
+// IIIT Nagpur · B.Tech · Year 3
 
+Building the future, one commit at a time.
+#MachineLearning #DeepLearning #AI #OpenSource #DSA
+I turn ML/DL research into real-world impact. As an active open-source contributor, I've navigated large-scale codebases and shipped code alongside developers across the globe, that kind of experience doesn't come from classrooms.
+Currently grinding through DSA while staying sharp on the AI/ML frontier. Whether it's building intelligent systems or architecting clean software, I'm here for both.
+Actively seeking internships & placements. Let's build something that matters.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ark-gupta-iiitn27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkgupta17@gmail.com) 
