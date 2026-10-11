@@ -17,11 +17,12 @@
 
 ## 🌠 Building the future, one commit at a time.
 
-I turn **AI/ML/DL research into real-world impact**. As an active open-source contributor, I've navigated large-scale codebases and shipped code alongside developers across the globe, that kind of experience doesn't come from classrooms.
+I turn **AI/ML/DL research into real-world impact** and keen about Software Development. As an active open-source contributor, I've navigated large-scale codebases and shipped code alongside developers across the globe, that kind of experience doesn't come from classrooms.
 
-Currently grinding through **DSA** while staying sharp on the **AI/ML frontier**. Whether it's building intelligent systems or architecting clean software. I'm here for both. Reach me at: arkgupta17@gmail.com
+Currently grinding through **DSA** while staying sharp on the **AI/ML frontier**. Whether it's building intelligent systems or architecting clean software. I'm here for both. 
+Reach me at: arkgupta17@gmail.com
 
-> 🎯 **Actively seeking internships & placements.** Let's build something that matters.
+> 🎯 **Actively seeking AI/ML or Software Development internships & placements.** Let's build something that matters.
 
 ---
 
